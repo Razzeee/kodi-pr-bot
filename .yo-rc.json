@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Kolja Lampe",
+      "authorEmail": "razzeee@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
